@@ -20,7 +20,7 @@
 
 <div>
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/5.gif" width="55%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="30%" align='right'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="55%" align='right'>
 
 
 
