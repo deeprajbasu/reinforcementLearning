@@ -7,8 +7,8 @@
 
 <br>
 
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="48%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="50%" align='right'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="50%" align='left'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="40%" align='right'>
 
 
 
