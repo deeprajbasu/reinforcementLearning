@@ -3,10 +3,10 @@
 ## BALANCING BALL ON PLANE SURFACE
 
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/1.gif" width="45%" align='left'>
- <p style="text-align: left;">       a                                  </p>  </img>
+<!--  <p style="text-align: left;">       a                                  </p>  </img> -->
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/2.gif" width="50%" align='right'>
-
-  <p style="text-align: right;">         b                                </p>
+<!-- 
+  <p style="text-align: right;">         b                                </p> -->
 <br>
 
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="50%" align='left'>
