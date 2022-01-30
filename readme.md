@@ -8,8 +8,18 @@
 <br>
 
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="50%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="40%" align='right'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="44%" align='right'>
 
+
+
+
+
+
+
+<br>
+
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/5.gif" width="40%" align='left'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="40%" align='right'>
 
 
 
