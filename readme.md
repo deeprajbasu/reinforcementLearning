@@ -21,9 +21,9 @@
 
 =============================================================================
 <br>
-<!-- ## simulate urdf robot with pybullet
+## simulate urdf robot with pybullet
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/pyb/pybullet1.gif" width="55%" align='center'>
- -->
+
 
 
 
