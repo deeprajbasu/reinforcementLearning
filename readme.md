@@ -1,21 +1,14 @@
 # Reinforcement learning with unity 
 
 ## BALANCING BALL ON PLANE SURFACE
-<div>
+
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/1.gif" width="20%" align='left'>
-
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/2.gif" width="25%" align='right'>
-
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="25%" align='left'>
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="20%" align='right'>
-
-
-
-
-
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="25%" align='right'>  
 <img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/5.gif" width="20%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="25%" align='right'>
-</div>
+
 
 
 
