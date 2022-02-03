@@ -2,28 +2,32 @@
 
 ## BALANCING BALL ON PLANE SURFACE
 <div>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/1.gif" width="45%" align='left'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/1.gif" width="20%" align='left'>
 
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/2.gif" width="44%" align='right'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/2.gif" width="25%" align='right'>
 
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="44%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="45%" align='right'>
-
-
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/3.gif" width="25%" align='left'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/4.gif" width="20%" align='right'>
 
 
 
 
 
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/5.gif" width="45%" align='left'>
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="46%" align='right'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/5.gif" width="20%" align='left'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/6.gif" width="25%" align='right'>
 </div>
+
+
+
 
 =============================================================================
 <br>
 ## simulate urdf robot with pybullet
-<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/pyb/pybullet1.gif" width="55%" align='center'>
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/pyb/pybullet1.gif" width="45%" align='center'>
 
+# task 1 - stand
+> if robot moves lateraly too much its reset and given negative reward
+<img src="https://github.com/deeprajbasu/reinforcementLearning/blob/main/pyb/stand.gif" width="20%" align='center'>
 
 
 
